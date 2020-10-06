@@ -12,3 +12,5 @@
 	
 3. What are ways that GitHub might help you/students manage code? 
 	This will help immensely on projects that are multi-part and multi-step. This is a key part of AP CS A and AP CS P. 
+
+Followed along and saw how to update the files with pull request. 
