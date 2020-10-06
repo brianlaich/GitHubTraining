@@ -9,3 +9,6 @@
 	GitHub will be rolled out tentatively with my students in AP CS A this year, with a continual roll out to AP CS Principles, and then my intro course that is focused on Python Data Science. 
 	In this process, I'll be able to have the most experienced students trouble shoot the process first this year, then next year have a few select that are skilled at it as we roll it out to a larger audience, and so on. 
 	Overtime, this will also be rolled out to another teacher at our school, the First Robotics Teacher, so that the skill and process becomes an eventual way of doing business in our school. 
+	
+3. What are ways that GitHub might help you/students manage code? 
+	This will help immensely on projects that are multi-part and multi-step. This is a key part of AP CS A and AP CS P. 
